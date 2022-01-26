@@ -19,7 +19,10 @@ My name is Saianurag Kommuri, I am a Junior at George Mason University studying 
 
 Feel free to reach out via [email](mailto:sakommuri@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/skommur/) :)
 
-![IMG_7374](https://user-images.githubusercontent.com/55466413/151229127-7f03d7bf-e86a-40c2-9344-6a95fd7aa49c.jpg)
+![IMG_7374](https://user-images.githubusercontent.com/55466413/151232074-a4ded15e-fa06-4488-a935-526a67d6281d.jpg)
+
+
+
 
 ## 🔧 Technologies & Tool
 
