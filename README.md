@@ -50,6 +50,7 @@ Javascript and SQL for webdevolopment and so I can make Non static websites.
 **Check out https://githubtrends.io for more information!
 **
 
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sakomm/repos?time_range=one_year&include_private=True)](https://githubtrends.io)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sakomm/langs?time_range=one_year&include_private=True&compact=True)](https://githubtrends.io)
