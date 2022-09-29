@@ -32,7 +32,6 @@ Feel free to reach out via [email](mailto:sakommuri@gmail.com) or on [LinkedIn](
 ![](https://img.shields.io/badge/Code-R-blue?style=flat-square&logo=R&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML/CSS-blue?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Code-HTML/CSS-blue?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![](https://img.shields.io/badge/Library-Selenium-red?style=flat-square&logo=Selenium&logoColor=white) 
 ![](https://img.shields.io/badge/Library-OpenCV-red?style=flat-square&logo=OpenCV&logoColor=white) 
