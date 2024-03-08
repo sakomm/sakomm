@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Saianurag Kommuri, I am a Junior at George Mason University studying Computer Science and Minoring in Computational Data science. I love to work with my hands and making silly robots. 
+My name is Saianurag Kommuri, I am a George Mason University graduate who studied Computer Science with a minor in Computational Data science. I love to work with my hands and robotics. 
 
 Feel free to reach out via [email](mailto:sakommuri@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/skommur/) :)
 
@@ -45,7 +45,7 @@ Feel free to reach out via [email](mailto:sakommuri@gmail.com) or on [LinkedIn](
 
 ## 🌱 I’m currently learning
 
-Javascript and SQL for webdevlopment.
+Rust 
 
 ## Trends
 **Check out https://githubtrends.io for more information!
